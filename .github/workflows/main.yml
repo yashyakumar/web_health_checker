@@ -32,5 +32,5 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: error_log
-        path: web_health_checker/error_log.txt
+        path: error_log.txt
 
